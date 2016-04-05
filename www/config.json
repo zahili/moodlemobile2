@@ -9,5 +9,6 @@
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
+    "demo_sites":"",
     "siteurl":"http://inspire.oum.edu.my"
 }
